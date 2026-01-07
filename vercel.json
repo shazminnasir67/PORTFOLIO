@@ -4,9 +4,27 @@
     {
       "src": "api/index.py",
       "use": "@vercel/python"
+    },
+    {
+      "src": "www.ShazminNasir.com/**",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "media/**",
+      "use": "@vercel/static"
     }
   ],
   "routes": [
+    {
+      "src": "/_astro/(.*\\.css)",
+      "headers": { "Content-Type": "text/css" },
+      "dest": "/www.ShazminNasir.com/_astro/$1"
+    },
+    {
+      "src": "/_astro/(.*\\.js)",
+      "headers": { "Content-Type": "application/javascript" },
+      "dest": "/www.ShazminNasir.com/_astro/$1"
+    },
     {
       "src": "/_astro/(.*)",
       "dest": "/www.ShazminNasir.com/_astro/$1"
@@ -16,8 +34,8 @@
       "dest": "/media/$1"
     },
     {
-      "src": "/favicon.ico",
-      "dest": "/api/index.py"
+      "src": "/favicon\\.ico",
+      "dest": "/www.ShazminNasir.com/favicon 2.svg"
     },
     {
       "src": "/privacy-policy",
