@@ -34,7 +34,15 @@
       "dest": "/media/$1"
     },
     {
+      "src": "/faviconblack\\.svg",
+      "dest": "/www.ShazminNasir.com/faviconblack.svg"
+    },
+    {
       "src": "/favicon\\.ico",
+      "dest": "/www.ShazminNasir.com/favicon 2.svg"
+    },
+    {
+      "src": "/favicon.*\\.svg",
       "dest": "/www.ShazminNasir.com/favicon 2.svg"
     },
     {
