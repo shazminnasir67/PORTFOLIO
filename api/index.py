@@ -2,7 +2,6 @@ from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse, HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
-from mangum import Mangum
 from pathlib import Path
 import os
 
@@ -90,5 +89,6 @@ async def list_projects():
     
     return {"projects": projects}
 
-# Vercel serverless handler
-handler = Mangum(app)
+# Vercel serverless handler - export app directly
+# Vercel's Python runtime expects an ASGI app
+__all__ = ['app']
