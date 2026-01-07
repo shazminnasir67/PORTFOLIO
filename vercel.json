@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/index.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/_astro/(.*)",
+      "dest": "/www.ShazminNasir.com/_astro/$1"
+    },
+    {
+      "src": "/media/(.*)",
+      "dest": "/media/$1"
+    },
+    {
+      "src": "/favicon.ico",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/privacy-policy",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/work/(.*)",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/api/index.py"
+    }
+  ]
+}
