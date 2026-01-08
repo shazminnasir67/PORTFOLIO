@@ -209,7 +209,7 @@
             <div class="px-[6vw]">
               <header class="py-[2.5vmax] text-white">
                 <div class="flex justify-between items-center" style="height:var(--header-height)">
-                  <a class="flex items-center" href="CodeForgeAI">
+                  <a class="flex items-center" href="#" onclick="window.location.reload(); return false;">
                     <svg style="height:max(2rem,3vmax); display:block;" viewBox="0 0 64 64"
                       xmlns="http://www.w3.org/2000/svg" aria-label="Logo">
                       <image href="../favicon 2.svg" x="8" y="8" width="48" height="48"
