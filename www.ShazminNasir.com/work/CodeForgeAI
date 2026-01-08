@@ -1,0 +1,747 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="icon" type="image/png" href="../favicon 2.svg">
+  <meta name="generator" content="Astro v5.6.1">
+  <meta name="description"
+    content="Shazmin Nasir is a Data Scientist and UI/UX Designer specializing in AI-driven solutions, machine learning, and intuitive design experiences.">
+  <title>Shazmin Nasir • CodeForge AI</title>
+  <meta property="og:title" content="Shazmin Nasir • CodeForge AI">
+  <meta property="og:description"
+    content="Shazmin Nasir is a Data Scientist and UI/UX Designer specializing in AI-driven solutions, machine learning, and intuitive design experiences.">
+  <meta property="og:type" content="website">
+  <meta property="og:image"
+    content="https://media/shazmin/aC3fdydWJ-7kSZt1_blinkpath-og-image.gif?auto=format,compress">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:site_name" content="Shazmin Nasir">
+  <meta property="og:locale" content="en_US"><!-- Twitter Card Tags (works with OpenGraph) -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@_shazminnasir">
+  <meta name="twitter:title" content="Shazmin Nasir • CodeForge AI">
+  <meta name="twitter:description"
+    content="Shazmin Nasir is a Data Scientist and UI/UX Designer specializing in AI-driven solutions, machine learning, and intuitive design experiences.">
+  <meta name="twitter:image"
+    content="https://media/shazmin/aC3fdydWJ-7kSZt1_blinkpath-og-image.gif?auto=format,compress">
+  <link rel="stylesheet" href="../_astro/index.BY_V3ubU.css">
+</head>
+
+<body data-barba="wrapper" style="background:rgb(var(--color-dark-1))">
+  <div class="fixed top-0 left-0 pointer-events-none z-40" id="works-cursor">
+    <div id="work-cursor-content" data-rotated-content>
+      <div class="w-full h-full absolute" style="animation:infinit-rotation 15s linear infinite">
+        <p class="text-orange1 uppercase text-[max(.5rem,.7vmax)] relative font-medium h-full" data-rotated-text>
+          visit project • visit project • visit project • visit project •
+        </p>
+      </div>
+      <div style="width:var(--width);height:var(--width)" data-rotated-circle> <svg viewBox="0 0 173 171"
+          xmlns="http://www.w3.org/2000/svg">
+          <defs>
+            <mask id="arrow-mask-cursor">
+              <rect width="100%" height="100%" fill="white"></rect>
+              <path
+                d="M76.8823 45L69.8116 51.9832L97.7936 79.6682H55V89.5734H97.7936L69.8116 117.258L76.8823 124.242L117 84.6209L76.8823 45Z"
+                fill="black"></path>
+            </mask>
+          </defs>
+          <rect width="100%" height="100%" fill="transparent"></rect>
+          <path
+            d="M86.5 170.858C134.273 170.858 173 132.61 173 85.429C173 38.2478 134.273 0 86.5 0C38.7274 0 0 38.2478 0 85.429C0 132.61 38.7274 170.858 86.5 170.858Z"
+            fill="rgb(59,130,246)" opacity="1" mask="url(#arrow-mask-cursor)"></path>
+        </svg> </div>
+    </div>
+  </div>
+  <div layout-container>
+    <div id="scroll-container" class="h-[100dvh] overflow-y-scroll relative z-0 overflow-x-hidden">
+      <div id="scroll-content" class="relative">
+        <div data-barba="container" data-barba-namespace="everstream" data-template="work" data-color-scheme="dark">
+          <div class="bg-dark1">
+            <div class="w-full sticky top-0 z-50 pointer-events-none">
+              <div class="absolute top-0 left-0 w-full px-[6vw] py-[2.5vmax] flex justify-center items-center">
+                <div class="relative w-full">
+                  <div class="block opacity-0 pointer-events-none"> <svg style="height:var(--header-height)"
+                      viewBox="0 0 175 31" fill="none" xmlns="http://www.w3.org/2000/svg" data-src="favicon">
+
+                    </svg> </div>
+                  <div class="absolute top-[50%] translate-y-[-50%] w-full left-0">
+                    <div class="pointer-events-auto">
+                      <div class="relative">
+                        <div class="absolute top-[50%] translate-y-[-50%] right-0" data-navbar-container>
+                          <div id="mobile-menu-container">
+                            <div class="bg-white rounded-full p-[max(.15rem,.2vmax)] relative z10 flex lg:hidden"
+                              id="mobile-menu-open-button-container">
+                              <div class="overflow-hidden relative" data-mobile-menu-open-button-container> <button
+                                  class="block px-[max(1rem,1.2vmax)] py-[max(.5rem,.7vmax)] rounded-full relative z-10"
+                                  id="mobile-menu-open-button" data-text-hover-animation-area> <span
+                                    data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
+                                    class="block relative z-10 text-dark1 text-[max(.8rem,1vmax)] leading-[100%] font-medium">
+                                    Menu
+                                  </span> </button> </div>
+                              <div
+                                class="bg-white absolute top-0 left-0 w-full h-full z-0 rounded-[calc(0.5*(max(.15rem,.2vmax)+max(.5rem,.7vmax)+max(.8rem,1vmax)*2.1))] pointer-events-none"
+                                data-mobile-menu-background style="box-shadow:0 0 5px 1px rgba(0, 0, 0, 0.05)"></div>
+                            </div>
+                            <div class="flex lg:hidden absolute z-0 top-0 right-0 flex-col items-end"
+                              style="opacity:0;pointer-events:none" id="mobile-menu">
+                              <div class="overflow-hidden">
+                                <div class="p-[max(.15rem,.2vmax)] relative z-10 overflow-hidden"> <button
+                                    class="left-0 block px-[max(1rem,1.2vmax)] py-[max(.5rem,.7vmax)] rounded-full z-0"
+                                    id="mobile-menu-close-button" data-text-hover-animation-area> <span
+                                      data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
+                                      class="block relative z-0 text-dark1 text-[max(.8rem,1vmax)] leading-[100%] font-medium">
+                                      Close
+                                    </span> </button> </div>
+                              </div>
+                              <div class="pb-[max(.15rem,.2vmax)] z-10">
+                                <div class="px-[max(1rem,1.2vmax)]">
+                                  <div data-menu-top-line class="border-t border-dark1/20 origin-right"></div>
+                                </div>
+                                <div
+                                  class="flex flex-col items-end pl-[max(2rem,3vmax)] py-[max(1rem,1.2vmax)] gap-[max(.3rem,.5vmax)]">
+                                  <div class="px-[max(1rem,1.2vmax)] overflow-hidden relative"> <a href="../index.html"
+                                      class="block rounded-full relative" data-mobile-menu-button> <span
+                                        data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
+                                        class="relative z-0 text-dark1 text-[max(1.2rem,1.6vmax)] leading-[100%] font-medium">
+                                        Home
+                                      </span> </a> </div>
+                                  <div class="px-[max(1rem,1.2vmax)] overflow-hidden relative"> <button
+                                      class="block rounded-full relative" data-contact-button data-mobile-menu-button>
+                                      <span data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
+                                        class="relative z-0 text-dark1 text-[max(1.2rem,1.6vmax)] leading-[100%] font-medium">
+                                        Contact
+                                      </span> </button> </div>
+                                </div>
+                              </div>
+                              <div
+                                class="absolute w-full h-full rounded-[calc(0.5*(max(.15rem,.2vmax)+max(.5rem,.7vmax)+max(.8rem,1vmax)*2.1))] z-0 origin-top-right"
+                                data-mobile-menu-background-container></div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="w-full sticky top-0 z-50 pointer-events-none hidden lg:block">
+              <div class="absolute top-0 left-0 w-full px-[6vw] py-[2.5vmax] flex justify-center items-center">
+                <div class="relative w-full">
+                  <div class="block opacity-0 pointer-events-none"> <svg style="height:var(--header-height)"
+                      viewBox="0 0 175 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <ellipse cx="37.16" cy="13.8424" rx="11.3876" ry="11.2466" fill="rgb(var(--color-dark-1))">
+                      </ellipse>
+                      <path
+                        d="M7.58208 0L5.13212 2.41963L14.8277 12.0123H0V15.4444H14.8277L5.13212 25.0371L7.58208 27.4568L21.4826 13.7284L7.58208 0Z"
+                        fill="rgb(var(--color-dark-1))"></path>
+                      <g clip-path="url(#clip0_2664_9009)">
+                        <path
+                          d="M58.2217 2.85382H66.8418C67.2611 2.85382 67.7313 2.86533 68.2513 2.88644C68.7704 2.90851 69.2953 2.98623 69.8259 3.11864C70.3565 3.25105 70.8813 3.46118 71.4004 3.74807C71.9195 4.03592 72.3896 4.44467 72.8099 4.97431C73.3184 5.59319 73.6495 6.22358 73.8049 6.86453C73.9594 7.50643 74.0371 8.08021 74.0371 8.58875C74.0371 8.76529 74.015 9.07521 73.9709 9.51658C73.9268 9.95891 73.7771 10.4396 73.5228 10.9587C73.2685 11.4778 72.8713 11.9815 72.3292 12.467C71.7871 12.9535 71.0195 13.3076 70.0245 13.5282C70.2452 13.5724 70.4937 13.628 70.77 13.6942C71.0463 13.7604 71.339 13.8602 71.6489 13.9926C71.9588 14.1251 72.2678 14.2968 72.5777 14.5069C72.8867 14.7171 73.1851 14.9876 73.4729 15.3196C73.9815 15.9385 74.3182 16.5689 74.4842 17.2098C74.6502 17.8508 74.7327 18.4255 74.7327 18.9341C74.7327 19.7295 74.5773 20.5364 74.2683 21.3539C73.9584 22.1714 73.5171 22.8344 72.9423 23.343C72.1018 24.0501 71.2622 24.4982 70.4227 24.6853C69.5821 24.8734 68.7426 24.9674 67.903 24.9674H58.2217V2.85382ZM62.0011 12.1706H66.8754C67.8474 12.1706 68.6265 11.8837 69.2127 11.3089C69.798 10.7342 70.0916 9.94932 70.0916 8.95527C70.0916 8.31433 69.9583 7.801 69.6934 7.41336C69.4286 7.02668 69.1187 6.72828 68.7656 6.51815C68.4116 6.30802 68.0469 6.16985 67.6708 6.10364C67.2947 6.03744 66.9963 6.00386 66.7756 6.00386H62.0011V12.1706ZM62.0011 21.6523H67.1537C68.188 21.6523 69.0304 21.3817 69.68 20.8396C70.3296 20.2985 70.6539 19.5078 70.6539 18.4687C70.6539 17.5629 70.3459 16.8107 69.729 16.2148C69.113 15.618 68.2542 15.3196 67.1527 15.3196H62.0002V21.6523H62.0011Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                        <path d="M76.5664 24.9674V2.85382H80.247V24.9674H76.5664Z" fill="rgb(var(--color-dark-1))">
+                        </path>
+                        <path d="M82.8027 24.9674V8.58972H86.4834V24.9674H82.8027Z" fill="rgb(var(--color-dark-1))">
+                        </path>
+                        <path
+                          d="M89.3193 8.62196H92.668V12.4014C92.8224 12.0694 93.0268 11.6665 93.2811 11.1915C93.5354 10.7166 93.8558 10.2627 94.2425 9.83189C94.6292 9.40108 95.0936 9.03647 95.6347 8.73806C96.1759 8.43966 96.8332 8.28998 97.6075 8.28998C98.4912 8.28998 99.2319 8.41183 99.8287 8.65459C100.426 8.8983 100.917 9.21781 101.304 9.61601C101.691 10.0142 101.99 10.4671 102.2 10.9756C102.41 11.4842 102.558 11.9984 102.648 12.5175C102.736 13.0366 102.786 13.5404 102.797 14.0259C102.808 14.5123 102.814 14.9326 102.814 15.2857V24.967H99.1331V15.3529C99.1331 14.4029 99.0342 13.668 98.8347 13.1479C98.6361 12.6288 98.3981 12.247 98.1218 12.0042C97.8454 11.7614 97.5633 11.6175 97.2764 11.5734C96.9886 11.5292 96.7679 11.5072 96.6134 11.5072C96.4148 11.5072 96.1164 11.5456 95.7182 11.6233C95.32 11.701 94.917 11.9274 94.5083 12.3026C94.0986 12.6787 93.7455 13.2592 93.4471 14.0431C93.1487 14.828 92.999 15.9161 92.999 17.3083V24.967H89.3184V8.62196H89.3193Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                        <path
+                          d="M119.597 30.5052V8.6229H123.111V11.4745C123.266 11.2097 123.464 10.894 123.708 10.5294C123.951 10.1648 124.266 9.81651 124.653 9.48549C125.04 9.1535 125.515 8.87237 126.079 8.64017C126.643 8.40797 127.323 8.29187 128.118 8.29187C129.29 8.29187 130.257 8.57972 131.019 9.1535C131.781 9.72824 132.389 10.4411 132.842 11.2922C133.294 12.1433 133.609 13.0548 133.787 14.0278C133.963 15.0007 134.052 15.8844 134.052 16.6798C134.052 17.8734 133.909 19.0335 133.622 20.1609C133.334 21.2883 132.837 22.3274 132.13 23.2773C131.687 23.8741 131.13 24.3606 130.455 24.7358C129.781 25.1109 128.913 25.299 127.852 25.299C127.123 25.299 126.503 25.2059 125.996 25.0207C125.487 24.8355 125.056 24.6053 124.703 24.3318C124.349 24.0584 124.068 23.7753 123.858 23.4798C123.647 23.1852 123.476 22.9281 123.344 22.7093V30.5043H119.597V30.5052ZM123.343 18.2918C123.343 18.9356 123.442 19.5113 123.641 20.0217C123.84 20.5312 124.1 20.964 124.42 21.319C124.741 21.674 125.105 21.9455 125.515 22.1336C125.924 22.3217 126.338 22.4157 126.758 22.4157C127.532 22.4157 128.139 22.2113 128.581 21.8007C129.023 21.39 129.361 20.891 129.593 20.3038C129.825 19.7166 129.974 19.1121 130.041 18.4913C130.107 17.8705 130.14 17.3495 130.14 16.9283C130.14 16.485 130.106 15.9429 130.041 15.2991C129.975 14.6562 129.825 14.0402 129.593 13.453C129.361 12.8658 129.029 12.3611 128.598 11.9399C128.167 11.5187 127.586 11.3076 126.857 11.3076C126.415 11.3076 125.984 11.4074 125.564 11.6069C125.144 11.8065 124.768 12.1001 124.436 12.4878C124.104 12.8754 123.84 13.358 123.64 13.9337C123.441 14.5104 123.342 15.1753 123.342 15.9295V18.2918H123.343Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                        <path
+                          d="M149.552 21.6529C149.552 22.4272 149.612 23.1008 149.734 23.6755C149.855 24.2503 149.96 24.6811 150.049 24.9689H146.535C146.313 24.3059 146.17 23.7532 146.104 23.3109C146.038 22.8695 145.982 22.3159 145.938 21.6529C145.806 21.9407 145.628 22.2938 145.408 22.7141C145.187 23.1344 144.866 23.5326 144.446 23.9077C144.026 24.2838 143.49 24.6101 142.838 24.8854C142.187 25.1618 141.374 25.3 140.402 25.3C139.517 25.3 138.738 25.1618 138.065 24.8854C137.39 24.6091 136.827 24.2387 136.374 23.7743C135.921 23.3099 135.579 22.7746 135.346 22.1662C135.114 21.5589 134.998 20.9227 134.998 20.2597C134.998 19.3309 135.186 18.5518 135.562 17.9224C135.937 17.2929 136.435 16.7671 137.054 16.3478C137.673 15.9285 138.375 15.6023 139.159 15.3701C139.943 15.1379 140.74 14.9671 141.547 14.8558C142.354 14.7455 143.138 14.685 143.9 14.6735C144.663 14.6629 145.342 14.6572 145.939 14.6572V13.4309C145.939 12.9003 145.835 12.4753 145.624 12.1548C145.413 11.8343 145.144 11.5801 144.812 11.392C144.48 11.2049 144.109 11.0773 143.701 11.0101C143.291 10.9439 142.877 10.9113 142.457 10.9113C141.639 10.9113 140.993 11.0101 140.518 11.2097C140.043 11.4083 139.673 11.6405 139.408 11.9063C139.142 12.1711 138.96 12.4484 138.861 12.7353C138.762 13.0232 138.689 13.2544 138.645 13.4309L135.495 12.9665C135.65 12.0378 135.964 11.2759 136.44 10.6791C136.915 10.0823 137.496 9.60734 138.181 9.25329C138.866 8.90019 139.611 8.65168 140.418 8.50776C141.224 8.36383 142.047 8.29187 142.888 8.29187C143.794 8.29187 144.705 8.36959 145.624 8.52407C146.541 8.67951 147.286 8.99998 147.861 9.48549C148.28 9.86161 148.607 10.2262 148.839 10.5793C149.071 10.9334 149.237 11.298 149.336 11.6731C149.436 12.0493 149.496 12.4523 149.518 12.8831C149.539 13.3139 149.551 13.784 149.551 14.2926V21.6529H149.552ZM145.938 16.6462C144.767 16.6462 143.822 16.7076 143.104 16.8285C142.385 16.9504 141.838 17.0665 141.462 17.1768C141.286 17.243 141.042 17.3323 140.733 17.4417C140.423 17.552 140.125 17.7122 139.838 17.9224C139.55 18.1325 139.301 18.4088 139.092 18.7514C138.882 19.0939 138.778 19.5305 138.778 20.0611C138.778 20.2165 138.805 20.4315 138.86 20.7078C138.916 20.9841 139.042 21.2547 139.242 21.5205C139.441 21.7853 139.727 22.0175 140.104 22.2161C140.479 22.4147 140.999 22.5145 141.662 22.5145C142.568 22.5145 143.297 22.3485 143.85 22.0175C144.402 21.6855 144.833 21.2883 145.143 20.8239C145.452 20.3595 145.662 19.8788 145.772 19.3818C145.883 18.8847 145.938 18.4702 145.938 18.1383V16.6462Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                        <path
+                          d="M159.83 24.9679C159.41 25.0783 158.963 25.1608 158.487 25.2165C158.012 25.2711 157.597 25.299 157.243 25.299C156.625 25.299 155.984 25.1934 155.321 24.9843C154.658 24.7751 154.137 24.4489 153.762 24.0065C153.254 23.4539 152.939 22.8743 152.817 22.266C152.695 21.6586 152.635 20.8901 152.635 19.9613V11.5081H150.612V8.62288H152.867L153.199 4.37902L156.216 4.1142V8.62288H159.498V11.5071H156.216V19.4643C156.216 20.039 156.266 20.4976 156.365 20.8402C156.464 21.1827 156.625 21.4485 156.846 21.6356C157.067 21.8237 157.349 21.9503 157.691 22.0175C158.034 22.0837 158.437 22.1163 158.901 22.1163C159.056 22.1163 159.2 22.1163 159.332 22.1163C159.465 22.1163 159.631 22.1058 159.829 22.0837V24.9679H159.83Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                        <path
+                          d="M161.259 2.85382H164.939V11.5066C165.028 11.2638 165.176 10.9434 165.387 10.5452C165.598 10.147 165.885 9.7555 166.249 9.36786C166.614 8.98118 167.078 8.65015 167.641 8.37286C168.206 8.09652 168.907 7.95835 169.746 7.95835C171.515 7.95835 172.797 8.46689 173.592 9.48396C174.388 10.501 174.786 12.1475 174.786 14.4235V24.9664H171.105V15.0212C171.105 14.6681 171.094 14.2699 171.072 13.8276C171.05 13.3862 170.96 12.966 170.807 12.5678C170.651 12.1696 170.409 11.8328 170.078 11.5565C169.746 11.2801 169.271 11.142 168.652 11.142C168.01 11.142 167.408 11.3137 166.845 11.6563C166.282 11.9988 165.878 12.4248 165.635 12.9324C165.37 13.5292 165.187 14.1375 165.088 14.7554C164.988 15.3743 164.938 16.1707 164.938 17.1427V24.9674H161.258V2.85382H161.259Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                        <path
+                          d="M84.642 6.69181C85.8412 6.69181 86.8134 5.71967 86.8134 4.52047C86.8134 3.32127 85.8412 2.34912 84.642 2.34912C83.4428 2.34912 82.4707 3.32127 82.4707 4.52047C82.4707 5.71967 83.4428 6.69181 84.642 6.69181Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                        <path
+                          d="M113.739 14.0272L118.646 8.62329H114.668L108.635 15.216V2.85382H105.088V24.9674H108.635V20.6573C108.635 20.6573 108.648 20.0778 108.659 19.3562L111.12 16.5795L115.298 24.9674H119.177L113.739 14.0272Z"
+                          fill="rgb(var(--color-dark-1))"></path>
+                      </g>
+                      <defs>
+                        <clipPath id="clip0_2664_9009">
+                          <rect width="116.564" height="28.1555" fill="rgb(var(--color-dark-1))"
+                            transform="translate(58.2217 2.34912)"></rect>
+                        </clipPath>
+                      </defs>
+                    </svg> </div>
+                  <div class="absolute top-[50%] translate-y-[-50%] w-full left-0">
+                    <div class="pointer-events-auto">
+                      <div class="relative">
+                        <div class="absolute top-[50%] translate-y-[-50%] left-[50%] translate-x-[-50%]"
+                          data-navbar-container>
+                          <div style="box-shadow:0 0 5px 1px rgba(0, 0, 0, 0.05)"
+                            class="bg-white rounded-full p-[max(.15rem,.2vmax)] relative z-0 flex"> <a data-navbar-link
+                              href="../index.html" data-text-hover-animation-area
+                              class="block px-[max(1rem,1.2vmax)] py-[max(.5rem,.7vmax)] rounded-full relative"> <span
+                                data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
+                                class="block relative z-0 text-dark1 text-[max(.8rem,1vmax)] leading-[100%] font-medium">
+                                Home
+                              </span> </a>
+                            <div class="flex">
+                              <div class="px-[max(.15rem,.2vmax)]"></div> <button data-contact-button
+                                data-text-hover-animation-area
+                                class="px-[max(1rem,1.2vmax)] py-[max(.5rem,.7vmax)] rounded-full relative bg-light1">
+                                <span data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
+                                  class="block relative z-0 text-dark1 text-[max(.8rem,1vmax)] leading-[100%] font-medium">
+                                  Contact
+                                </span> </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="px-[6vw]">
+              <header class="py-[2.5vmax] text-white">
+                <div class="flex justify-between items-center" style="height:var(--header-height)">
+                  <a class="flex items-center" href="CodeForgeAI">
+                    <svg style="height:max(2rem,3vmax); display:block;" viewBox="0 0 64 64"
+                      xmlns="http://www.w3.org/2000/svg" aria-label="Logo">
+                      <image href="../favicon 2.svg" x="8" y="8" width="48" height="48"
+                        preserveAspectRatio="xMidYMid meet" />
+                    </svg>
+                    <h1 class="text-[rgb(var(--color-light-1))]"
+                      style="font-size:max(1.6rem, 1.6vmax);line-height:15%;font-weight:500;">Shazmin N.</h1>
+                  </a>
+                  <a href="https://github.com/shazminnasir67/CodeForge-AI" target="_blank" rel="noopener noreferrer"
+                    data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
+                    class="hidden lg:block text-[max(.8rem,1vmax)] font-medium">Find GitHub repo</a>
+                </div>
+              </header>
+            </div>
+            <div class="flex justify-between pt-[12vmin] relative z-20 px-[6vw]">
+              <h1 class="text-[max(2.5rem,4.5vmax)] leading-[120%] text-light1" data-work-title> CodeForge AI
+              </h1> <button class="rounded-full" data-scroll-down-button="#work-text-content"> <span
+                  class="shrink-0 w-[max(5rem,8vmax)] h-[max(5rem,8vmax)] relative rounded-full overflow-hidden flex justify-center items-center"
+                  data-vertical-path-button="true" data-work-hero-button="true" data-outline-down-arrow> <svg
+                    class="pointer-events-none" viewBox="0 0 173 173" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                      d="M76.8823 45L69.8116 51.9832L97.7936 79.6682H55V89.5734H97.7936L69.8116 117.258L76.8823 124.242L117 84.6209L76.8823 45Z"
+                      fill="rgb(59,130,246)"></path>
+                  </svg> <span
+                    class="block w-full h-full absolute top-0 left-0 border-[.4vmax] border-orange1 rounded-full scale-[1.001]"></span>
+                  <span data-vertical-mask
+                    class="flex items-center justify-center absolute top-0 left-0 w-full h-full inset-0 z-10 bg-orange1 rounded-full">
+                    <svg class="pointer-events-none" viewBox="0 0 173 173" xmlns="http://www.w3.org/2000/svg">
+                      <path
+                        d="M76.8823 45L69.8116 51.9832L97.7936 79.6682H55V89.5734H97.7936L69.8116 117.258L76.8823 124.242L117 84.6209L76.8823 45Z"
+                        fill="rgb(var(--color-light-1))"></path>
+                    </svg> </span> </span> </button>
+            </div>
+            <div class="pb-[6vmax] px-[6vw]">
+              <div
+                class="border-b w-full mt-[10vmax] grid grid-cols-10 items-end text-[max(1rem,1.2vmax)] pb-[1.5vmax] gap-y-[max(1.5rem,2vmax)] border-light1/40 text-light1/40">
+                <div class="col-end-5 col-start-1 md:col-end-3">
+                  <p class="text-light1">
+                    Domain
+                  </p>
+                  <p>LLMs / Agent </p>
+                </div>
+                <div class="col-start-6 col-end-11 md:col-end-8 md:col-start-4 lg:col-start-3 lg:col-end-6">
+                  <p class="text-light1">
+                    Tech Stack
+                  </p>
+                  <p>Python, FastAPI, MongoDB</p>
+                  <p>LLaMA 3.2, DeepSeekCoder V2, PyTesseract</p>
+                </div>
+                <div class="col-start-1 col-end-4 md:col-start-8 lg:col-start-7 md:col-end-9 row-start-1">
+                  <p class="text-light1">
+                    Project Type
+                  </p>
+                  <p class="capitalize">Development Tool</p>
+                </div>
+                <div class="col-start-6 col-end-11 md:col-start-9 md:col-end-11 md:justify-self-end row-start-1">
+                  <p class="text-light1">
+                    Status
+                  </p>
+                  <p class="capitalize">Completed</p>
+                </div>
+              </div>
+            </div>
+            <div class="px-[6vw] relative z-20">
+              <div data-work-cover class="w-full h-[45vmax] overflow-hidden rounded-[3vmax] bg-light1/10">
+                <div class="w-full h-[125%]" data-speed="0.2" data-height-parallax-off="100%" data-work-cover-image
+                  data-src="/media/shazmin/CodeForgeAI_cover.png">
+                  <img src="/media/shazmin/CodeForgeAI_cover.png" alt="" />
+                </div>
+              </div>
+            </div>
+            <div style="--top-gap:calc(var(--header-height) + 5vmax)"
+              class="px-[6vw] pb-[6vmax] relative z-0 pt-[10vmax] lg:pt-[max(calc(10vmax-var(--top-gap)),calc(var(--top-gap)-10vmax))]">
+              <div class="grid grid-cols-10 border-b pb-[6vmax] pt-0 lg:pt-[var(--top-gap)] border-light1/40"
+                id="work-text-content">
+                <div class="col-start-1 col-end-3 h-full">
+                  <div class="flex sticky top-0 items-center justify-start"
+                    style="height:calc(var(--header-height) + 5vmax)">
+                    <p class="text-orange1 text-[4vmax] leading-[150%] inline-flex h-[4vmax] items-center relative"
+                      data-work-reader-index style="--index-value:0"> <span class="inline-block">(0</span> <span
+                        class="relative overflow-clip"> <span class="inline-block invisible leading-[100%]">0</span>
+                        <span class="absolute top-[0%] left-0 w-full inline-flex flex-col items-center"
+                          style="transform:translateY(calc(-1*var(--index-value)*(100% / 3)));transition:transform 0.3s ease-in-out">
+                          <span class="inline-block leading-[150%]">0</span> <span
+                            class="inline-block leading-[150%]">1</span> <span
+                            class="inline-block leading-[150%]">2</span> </span> </span> <span
+                        class="inline-block">)</span> </p>
+                  </div>
+                </div>
+                <div class="col-start-3 md:col-start-4 col-end-11 flex flex-col gap-[4.5vmax]">
+                  <div data-work-overview>
+                    <div class="flex justify-start items-center" style="height:calc(var(--header-height) + 5vmax)">
+                      <h3 class="text-[max(1.2rem,2vmax)] text-light1/70"> <span
+                          class="scale-[1.25] inline-block">•</span> Overview </h3>
+                    </div>
+                    <div
+                      class="text-[max(1.3rem,2.5vmax)] leading-[120%] md:leading-[110%] flex flex-col gap-[2vmax] text-light1">
+                      <p class="block">CodeForge AI is a cutting-edge offline AI-powered platform that revolutionizes code testing, analysis, and debugging. Using Large Language Models (LLMs), it automates bug detection, test case generation, static analysis, and code completion, enhancing developer productivity without relying on cloud-based AI services. Built with data privacy and security as core principles, the platform enables teams to harness the power of modern AI while maintaining complete control over their codebase and intellectual property.</p>
+                    </div>
+                  </div>
+                  <div data-work-problem class="pt-[1.5vmax]">
+                    <div class="flex justify-start items-center" style="height:calc(var(--header-height) + 5vmax)">
+                      <h3 class="text-[max(1.2rem,2vmax)] text-light1/70"> <span
+                          class="scale-[1.25] inline-block">•</span> Problem </h3>
+                    </div>
+                    <div
+                      class="text-[max(1.3rem,2.5vmax)] leading-[120%] md:leading-[110%] flex flex-col gap-[2vmax] text-light1">
+                      <p class="block">Modern development teams face increasing pressure to deliver high-quality code faster while managing growing codebases. Traditional code analysis tools are often limited in scope, requiring extensive configuration and producing high false-positive rates. Cloud-based AI coding assistants, while powerful, introduce significant concerns around data privacy, vendor lock-in, and operational costs.
+
+                      Many organizations, particularly in regulated industries, financial services, defense, and healthcare, cannot use cloud-based AI tools due to strict data governance policies. Even when cloud services are permissible, developers face challenges with inconsistent internet connectivity, latency issues, and subscription costs that scale with team size. Additionally, existing tools often operate in isolation—bug detection, testing, and code completion are handled by separate systems with no unified interface.</p>
+                    </div>
+                  </div>
+                  <div data-work-solution class="pt-[1.5vmax]">
+                    <div class="flex justify-start items-center" style="height:calc(var(--header-height) + 5vmax)">
+                      <h3 class="text-[max(1.2rem,2vmax)] text-light1/70"> <span
+                          class="scale-[1.25] inline-block">•</span> Solution </h3>
+                    </div>
+                    <div
+                      class="text-[max(1.3rem,2.5vmax)] leading-[120%] md:leading-[110%] flex flex-col gap-[2vmax] text-light1">
+
+                      <p>
+                       CodeForge AI delivers a comprehensive, offline AI development platform that combines multiple code intelligence capabilities into a single unified system, ensuring data privacy and accessibility without internet dependency.
+                      </p>
+
+                      <p>
+                        The platform was architected around powerful open-source LLMs—LLaMA 3.2 and DeepSeekCoder V2-lite—optimized for offline operation through LM Studio. This enables sophisticated code understanding, generation, and debugging capabilities that rival cloud-based solutions while maintaining complete data sovereignty.
+                      </p>
+
+                      <p><strong>Core Features</strong></p>
+                      <ul class="pl-[2vmax] ml-[1vmax]" style="font-size: max(1.3rem, 1.2vmax); list-style-type: disc; list-style-position: outside; color: rgb(var(--color-light-1));">
+                        <li style="display: list-item; padding-left: 0.5vmax;">Offline AI-powered code analysis using LLM-based reasoning</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Automated bug detection with context-aware static analysis</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Intelligent test case generation from code patterns</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Real-time code completion and suggestions</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">OCR and PDF text extraction for processing scanned code</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Interactive AI chatbot for debugging assistance</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Speech-to-text recognition for voice-based coding queries</li>
+                      </ul>
+
+                      <p><strong>Technical Architecture</strong></p>
+                      <div class="mt-[1vmax]" style="font-size: 1.4rem;">
+                        <table class="w-full border-collapse">
+                          <thead>
+                            <tr class="border-b border-light1/30">
+                              <th class="text-left py-[0.5vmax] pr-[1vmax]">Component</th>
+                              <th class="text-left py-[0.5vmax]">Technology</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr class="border-b border-light1/20">
+                              <td class="py-[0.5vmax] pr-[1vmax]">Backend API</td>
+                              <td class="py-[0.5vmax]">FastAPI with Pydantic validation</td>
+                            </tr>
+                            <tr class="border-b border-light1/20">
+                              <td class="py-[0.5vmax] pr-[1vmax]">LLM Engine</td>
+                              <td class="py-[0.5vmax]">LLaMA 3.2 / DeepSeekCoder V2</td>
+                            </tr>
+                            <tr class="border-b border-light1/20">
+                              <td class="py-[0.5vmax] pr-[1vmax]">Database</td>
+                              <td class="py-[0.5vmax]">MongoDB Atlas</td>
+                            </tr>
+                            <tr class="border-b border-light1/20">
+                              <td class="py-[0.5vmax] pr-[1vmax]">OCR Processing</td>
+                              <td class="py-[0.5vmax]">PyTesseract, PDFPlumber</td>
+                            </tr>
+                            <tr class="border-b border-light1/20">
+                              <td class="py-[0.5vmax] pr-[1vmax]">Frontend</td>
+                              <td class="py-[0.5vmax]">HTML, CSS, JavaScript, D3.js</td>
+                            </tr>
+                            <tr>
+                              <td class="py-[0.5vmax] pr-[1vmax]">Authentication</td>
+                              <td class="py-[0.5vmax]">JWT with OAuth2</td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+
+         
+                     
+
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+              <div class="py-[6vmax] flex flex-col gap-[3vmax]">
+                <div class="grid grid-cols-1  gap-[3vmax]">
+                  <div class="h-[20vmax] rounded-[3vmax] overflow-hidden bg-light1/10">
+                    <img src="/media/shazmin/demo-vid - Made with Clipchamp.gif"
+                      class="w-full h-full object-cover transition-opacity duration-500" loading="lazy">
+                  </div>
+                 
+                </div>
+                 <div class="h-[30vmax] rounded-[3vmax] overflow-hidden bg-light1/10">
+                    <img src="/media/shazmin/Demo.jpeg"
+                      class="w-full h-full object-cover transition-opacity duration-500" loading="lazy">
+                  </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-[3vmax]">
+                  <div class="h-[30vmax] rounded-[3vmax] overflow-hidden bg-gray-200">
+                    <img src="/media/shazmin/CodeForge_tools.png"
+                      class="w-full h-full object-cover transition-opacity duration-500" loading="lazy">
+                  </div>
+                  <div class="h-[30vmax] rounded-[3vmax] overflow-hidden bg-gray-200">
+                    <img src="/media/shazmin/Architecture Diagram1.jpg"
+                      class="w-full h-full object-contain transition-opacity duration-500" loading="lazy">
+                  </div>
+                </div>
+
+
+              </div>
+              <div class="pt-[8vmax] grid grid-cols-10 gap-y-[max(1rem,2vmax)]">
+                <div class="col-start-1 md:col-end-7 col-end-11 h-full md:pr-[3vmax]">
+                  <div class="h-full w-full rounded-[3vmax] p-[3vmax] flex flex-col bg-light1/10">
+                    <div class="flex flex-col items-start"> <a class="flex items-center" href="../index.html">
+                        <svg style="height:max(2rem,3vmax); display:block;" viewBox="0 0 64 64"
+                          xmlns="http://www.w3.org/2000/svg" aria-label="Logo">
+                          <image href="../favicon 2.svg" x="8" y="8" width="48" height="48"
+                            preserveAspectRatio="xMidYMid meet" />
+                        </svg>
+                        <h1 class="text-light1" style="font-size:max(1.6rem, 1.6vmax);line-height:15%;font-weight:500;">
+                          Shazmin N.</h1>
+                      </a></div>
+                    <div class="flex-1 flex items-end">
+                      <div
+                        class="flex flex-col items-start flex-1 mt-[12vmax] md:mt-0 gap-[max(1rem,1.5vmax)] text-light1">
+                        <div class="flex-1 flex flex-col items-start">
+                          <p class="text-[max(1rem,1.2vmax)] text-light1/80">
+                            Email
+                          </p> <a class="flex text-[max(1.2rem,1.5vmax)] text-light1"
+                            href="mailto:shazminnasir481@gmail.com" target="_blank" rel="noopener noreferrer"
+                            data-bottom-line-hover style="--line-color:rgb(var(--color-light-1))">
+                            shazminnasir481@gmail.com
+                          </a>
+                        </div>
+                        <div class="flex flex-1 flex-col text-[max(1.2rem,1.5vmax)] items-start">
+                          <p class="text-[max(1rem,1.2vmax)] text-light1/80">
+                            Socials
+                          </p> <a href="https://github.com/shazminnasir67" target="_blank" rel="noopener noreferrer"
+                            data-bottom-line-hover style="--line-color:rgb(var(--color-light-1))"
+                            class="flex items-center gap-[max(0.5rem,.7vmax)]"> <svg height="max(1rem,1.2vmax)"
+                              viewBox="0 0 62 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path
+                                d="M21.8823 0L14.8116 6.98319L42.7936 34.6682H0V44.5734H42.7936L14.8116 72.2585L21.8823 79.2419L62 39.6209L21.8823 0Z"
+                                fill="rgb(var(--color-light-1))"></path>
+                            </svg> GitHub</a><a href="#" target="_blank" rel="noopener noreferrer"
+                            data-bottom-line-hover style="--line-color:rgb(var(--color-light-1))"
+                            class="flex items-center gap-[max(0.5rem,.7vmax)]"> <svg height="max(1rem,1.2vmax)"
+                              viewBox="0 0 62 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path
+                                d="M21.8823 0L14.8116 6.98319L42.7936 34.6682H0V44.5734H42.7936L14.8116 72.2585L21.8823 79.2419L62 39.6209L21.8823 0Z"
+                                fill="rgb(var(--color-light-1))"></path>
+                            </svg> X </a><a href="https://www.linkedin.com/in/shazmin-nasir/" target="_blank"
+                            rel="noopener noreferrer" data-bottom-line-hover
+                            style="--line-color:rgb(var(--color-light-1))"
+                            class="flex items-center gap-[max(0.5rem,.7vmax)]"> <svg height="max(1rem,1.2vmax)"
+                              viewBox="0 0 62 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path
+                                d="M21.8823 0L14.8116 6.98319L42.7936 34.6682H0V44.5734H42.7936L14.8116 72.2585L21.8823 79.2419L62 39.6209L21.8823 0Z"
+                                fill="rgb(var(--color-light-1))"></path>
+                            </svg> LinkedIn </a>
+                        </div>
+                      </div>
+                      <div> <button data-scroll-down-button="#next-work"
+                          class="h-[max(3rem,3.7vmax)] aspect-square rounded-full flex items-center justify-center relative overflow-hidden"
+                          style="box-shadow:0px 0px 0px 2px rgb(var(--color-light-1)) inset;" data-vertical-path-button>
+                          <span class="block rotate-[90deg]"> <svg height="max(1rem,1.3vmax)" viewBox="0 0 62 80"
+                              fill="none" xmlns="http://www.w3.org/2000/svg">
+                              <path
+                                d="M21.8823 0L14.8116 6.98319L42.7936 34.6682H0V44.5734H42.7936L14.8116 72.2585L21.8823 79.2419L62 39.6209L21.8823 0Z"
+                                fill="rgb(var(--color-light-1))"></path>
+                            </svg> </span> <span data-vertical-mask
+                            class="flex items-center justify-center absolute top-0 left-0 w-full h-full inset-0 z-10 bg-light1">
+                            <span class="block rotate-[90deg]"> <svg height="max(1rem,1.3vmax)" viewBox="0 0 62 80"
+                                fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                  d="M21.8823 0L14.8116 6.98319L42.7936 34.6682H0V44.5734H42.7936L14.8116 72.2585L21.8823 79.2419L62 39.6209L21.8823 0Z"
+                                  fill="rgb(50, 49, 48)"></path>
+                              </svg> </span> </span> </button> </div>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="col-start-1 md:col-start-7 col-end-11 rounded-[3vmax] bg-orange1 p-[3vmax] flex flex-col items-start justify-between"
+                  data-orange-bg>
+                  <p class="text-[max(2rem,3vmax)] leading-[100%] text-light1"> Have a project you’d like to talk
+                    about?
+                  </p>
+                  <div class="pt-[12vmax]"> <button data-contact-button="true" data-animated-button
+                      class="relative rounded-full whitespace-nowrap flex items-center gap-[var(--gap)] group leading-[100%] text-light1"
+                      style="--vertical-padding:max(1rem,1.2vmax);--horizontal-padding:max(1rem,1.5vmax);--bullet-size:max(1rem,1.3vmax);--gap:max(.5rem,.7vmax);--font-size:max(1rem,1.3vmax);padding:var(--vertical-padding) var(--horizontal-padding);box-shadow:0px 0px 0px 2px rgb(var(--color-light-1)) inset;;font-size:var(--font-size)">
+                      <span data-animated-button-bullet class="rounded-full absolute overflow-hidden bg-light1"> <span
+                          data-animated-button-arrow class="block absolute top-[50%] translate-y-[-50%]"
+                          style="width:var(--bullet-size);height:var(--bullet-size)"> <svg viewBox="0 0 173 173"
+                            xmlns="http://www.w3.org/2000/svg" class="scale-[2.5]">
+                            <path
+                              d="M76.8823 45L69.8116 51.9832L97.7936 79.6682H55V89.5734H97.7936L69.8116 117.258L76.8823 124.242L117 84.6209L76.8823 45Z"
+                              fill="rgb(var(--color-orange-1))"></path>
+                          </svg> </span> <span data-animated-button-bullet-text
+                          class="block absolute top-[50%] translate-y-[-50%] text-orange1">Contact me</span> </span>
+                      <span class="inline-block relative"
+                        style="width:var(--bullet-size);height:var(--bullet-size)"></span> Contact me </button> </div>
+                </div>
+              </div>
+            </div>
+            <div class="absolute top-0 left-0 h-full w-full z-10 pointer-events-none bg-dark1" style="opacity:0"
+              data-work-hide-layer></div>
+            <div class="absolute top-0 left-0 h-full w-full z-10 pointer-events-none bg-dark1" style="opacity:0"
+              data-next-work-hide-layer></div><a href="flashpoint" data-next-work-link data-work-card
+              class="block px-[6vw] mt-[6vw] relative z-20">
+              <div class="w-full flex justify-between items-center">
+                <div class="relative">
+                  <p class="text-[max(1rem,1.2vmax)] leading-[150%] absolute left-0 top-0 translate-y-[-100%] text-light1/40"
+                    data-next-work-subtitle>
+                    Next work
+                  </p>
+                  <p class="text-[max(2.5rem,4.5vmax)] relative leading-[120%] text-light1" data-next-work-title>
+                    <span data-next-work-title-text class="leading-[120%]"> CodeForge AI </span> <span style="opacity:0"
+                      data-next-work-title-overlay class="absolute top-0 left-0 leading-[120%]  text-light1">CodeForge
+                      AI</span>
+                  </p>
+                </div> <span
+                  class="shrink-0 w-[max(5rem,8vmax)] h-[max(5rem,8vmax)] relative rounded-full overflow-hidden flex justify-center items-center"
+                  data-next-work-button="true" data-outline-down-arrow> <svg class="pointer-events-none"
+                    viewBox="0 0 173 173" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                      d="M76.8823 45L69.8116 51.9832L97.7936 79.6682H55V89.5734H97.7936L69.8116 117.258L76.8823 124.242L117 84.6209L76.8823 45Z"
+                      fill="rgb(59,130,246)"></path>
+                  </svg> <span
+                    class="block w-full h-full absolute top-0 left-0 border-[.4vmax] border-orange1 rounded-full scale-[1.001]"></span>
+                </span>
+              </div>
+              <div class="block mt-[8vmax] relative h-[15vmax] overflow-hidden">
+                <div data-next-work-cover class="w-full h-[45vmax] overflow-hidden rounded-[3vmax] bg-light1/10">
+                  <div class="w-full h-[125%]" data-speed="0.2" data-height-parallax-off="100%"
+                    data-next-work-cover-image
+                    data-src="/media/shazmin/aDCPFidWJ-7kSgF2_flashpoint-case-1b447.jpg?auto=format,compress">
+                    <!-- <img src={work.data.cover.url} alt="" /> -->
+                  </div>
+                </div>
+              </div>
+            </a>
+            <div class="h-[0px]" id="next-work"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="fixed top-0 left-0 w-full h-[100dvh] z-[50] overflow-y-scroll overflow-x-hidden invisible-scrollbar"
+    id="contact-menu-wrapper" style="opacity:0;pointer-events:none">
+    <div data-contact-menu-overlay class="bg-dark1/50 absolute w-full left-0 top-0 inset-0 z-0 bottom-0"></div>
+    <div class="absolute h-full min-h-full w-full sm:w-[75vw] md:w-[60vw] lg:w-[50vw] xl:w-[40vw] z-10 right-0"
+      id="contact-menu">
+      <div data-menu-block class="w-full h-full bg-orange1 absolute top-0 left-0"></div>
+      <div data-menu-block class="w-full h-full bg-dark1 absolute top-0 left-0"></div>
+      <div data-menu-block
+        class="absolute w-full top-0 left-0 bg-light1 px-[4vw] h-full overflow-y-scroll invisible-scrollbar">
+        <div class="py-[2.5vmax] relative">
+          <div class="flex justify-between items-center" style="height:var(--header-height)">
+            <h3 class="text-[max(1.2rem,2vmax)] text-dark1/50"> <span class="scale-[1.25] inline-block">•</span>
+              Contact me
+            </h3> <button class="block relative" data-menu-close data-vertical-path-button> <svg
+                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="max(2rem,3vmax)">
+                <circle cx="12" cy="12" r="10" fill="none" stroke="rgb(98, 96, 95)"></circle>
+                <line x1="9" y1="15" x2="15" y2="9" fill="none" stroke="rgb(98, 96, 95)" stroke-miterlimit="10">
+                </line>
+                <line x1="9" y1="9" x2="15" y2="15" fill="none" stroke="rgb(98, 96, 95)" stroke-miterlimit="10">
+                </line>
+              </svg> <span data-vertical-mask class="block absolute top-0 left-0 inset-0 z-10"> <svg
+                  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="max(2rem,3vmax)">
+                  <circle cx="12" cy="12" r="10" fill="rgb(98, 96, 95)" stroke="rgb(98, 96, 95)"></circle>
+                  <line x1="9" y1="15" x2="15" y2="9" fill="none" stroke="rgb(var(--color-light-1))"
+                    stroke-miterlimit="10"></line>
+                  <line x1="9" y1="9" x2="15" y2="15" fill="none" stroke="rgb(var(--color-light-1))"
+                    stroke-miterlimit="10"></line>
+                </svg> </span> </button>
+          </div>
+        </div>
+        <div class="pb-[max(1rem,1vmax)] pt-[max(1rem,1vmax)] md:pt-0">
+          <div class="relative">
+            <div data-contact-success style="position:absolute;opacity:0;pointer-events:none;top:0;left:0;width:100%">
+              <p data-contact-success-text class="text-orange1" style="font-size:max(1.7rem,2vmax);line-height:110%">
+                Thanks for reaching out! We'll be in touch shortly to talk about
+                your project and explore an opportunity to work together.
+              </p>
+            </div>
+            <div class="relative" data-contact-screen>
+              <div class="border-b border-dark1/40 pb-[max(1.5rem,2vmax)] flex">
+                <p class="text-[max(2rem,3vmax)] leading-[100%] flex-1"> Have a project you’d like to talk about? </p>
+              </div>
+              <div class="pt-[max(1.2rem,1.5vmax)]">
+                <form data-contact-form id="251196391994167" name="form_251196391994167" class="jotform-form"
+                  method="post">
+                  <div class="flex flex-col gap-[max(1rem,1.3vmax)]">
+                    <div class="flex flex-col md:flex-row gap-[max(1rem,1.3vmax)]">
+                      <div class="flex flex-col gap-[max(.5rem,.7vmax)] w-full">
+                        <p class="text-[max(.9rem,1.1vmax)] leading-[100%] text-dark1/40">What is your name?</p>
+                        <div class="relative text-[max(1rem,1.2vmax)] leading-[100%]" data-input-field> <input
+                            id="first_3" aria-label="Name" name="q3_whatIs[first]" data-component="first"
+                            aria-labelledby="label_3 sublabel_3_first" type="text" placeholder="Full Name"
+                            class="block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300"
+                            maxlength="50" minlength="1" required data-contact-input-field>
+                          <div class="absolute top-0 w-full left-0 pointer-events-none"> <input
+                              class="block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300"
+                              disabled style="opacity:0;pointer-events:none">
+                            <div data-error-indicator
+                              class="absolute right-[max(.5rem,.7vmax)] top-[50%] translate-y-[-50%] text-orange1 rounded-full h-[max(1rem,1.2vmax)] w-[max(1rem,1.2vmax)] opacity-0 pointer-events-none flex justify-center items-center border border-orange1 font-medium text-[max(.7rem,.9vmax)] leading-[100%]">
+                              <span class="pointer-events-none"> ! </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="flex flex-col gap-[max(.5rem,.7vmax)] w-full">
+                        <p class="text-[max(.9rem,1.1vmax)] leading-[100%] text-dark1/40">What is your email?</p>
+                        <div class="relative text-[max(1rem,1.2vmax)] leading-[100%]" data-input-field> <input
+                            id="input_4" aria-label="Email" name="q4_whatIs4" data-component="email" type="email"
+                            placeholder="Email Address"
+                            class="block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300"
+                            maxlength="50" minlength="1" required data-contact-input-field>
+                          <div class="absolute top-0 w-full left-0 pointer-events-none"> <input
+                              class="block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300"
+                              disabled style="opacity:0;pointer-events:none">
+                            <div data-error-indicator
+                              class="absolute right-[max(.5rem,.7vmax)] top-[50%] translate-y-[-50%] text-orange1 rounded-full h-[max(1rem,1.2vmax)] w-[max(1rem,1.2vmax)] opacity-0 pointer-events-none flex justify-center items-center border border-orange1 font-medium text-[max(.7rem,.9vmax)] leading-[100%]">
+                              <span class="pointer-events-none"> ! </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="flex flex-col gap-[max(.5rem,.7vmax)] w-full">
+                      <p class="text-[max(.9rem,1.1vmax)] leading-[100%] text-dark1/40">What is the name of your
+                        company?</p>
+                      <div class="relative text-[max(1rem,1.2vmax)] leading-[100%]" data-input-field> <input
+                          id="input_6" aria-label="Company" name="q6_whatIs6" data-component="textbox"
+                          aria-labelledby="label_6" type="text" placeholder="Company Name"
+                          class="block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300"
+                          maxlength="50" minlength="1" required data-contact-input-field>
+                        <div class="absolute top-0 w-full left-0 pointer-events-none"> <input
+                            class="block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300"
+                            disabled style="opacity:0;pointer-events:none">
+                          <div data-error-indicator
+                            class="absolute right-[max(.5rem,.7vmax)] top-[50%] translate-y-[-50%] text-orange1 rounded-full h-[max(1rem,1.2vmax)] w-[max(1rem,1.2vmax)] opacity-0 pointer-events-none flex justify-center items-center border border-orange1 font-medium text-[max(.7rem,.9vmax)] leading-[100%]">
+                            <span class="pointer-events-none"> ! </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="flex flex-col gap-[max(.5rem,.7vmax)] w-full">
+                      <p class="text-[max(.9rem,1.1vmax)] leading-[100%] text-dark1/40">Tell us a bit more about your
+                        project</p>
+                      <div class="relative text-[max(1rem,1.2vmax)] leading-[100%]" data-input-field> <textarea
+                          id="input_7" name="q7_typeA7" placeholder="We are looking to..."
+                          class="form-textarea block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300 resize-none"
+                          maxlength="300" required rows="6" data-contact-input-field></textarea>
+                        <div class="absolute top-0 w-full left-0 pointer-events-none"> <input
+                            class="block rounded-[max(.5rem,.7vmax)] py-[max(.6rem,.8vmax)] px-[max(.5rem,.7vmax)] w-full h-full bg-transparent placeholder:text-dark1/30 outline-none pr-[max(1.8rem,2.3vmax)] border border-dark1/40 transition-all duration-300"
+                            disabled style="opacity:0;pointer-events:none">
+                          <div data-error-indicator
+                            class="absolute right-[max(.5rem,.7vmax)] top-[50%] translate-y-[-50%] text-orange1 rounded-full h-[max(1rem,1.2vmax)] w-[max(1rem,1.2vmax)] opacity-0 pointer-events-none flex justify-center items-center border border-orange1 font-medium text-[max(.7rem,.9vmax)] leading-[100%]">
+                            <span class="pointer-events-none"> ! </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div></div>
+                  </div>
+                  <div class="flex items-center gap-[max(.5rem,.7vmax)]"> <button data-animated-button
+                      class="relative rounded-full whitespace-nowrap flex items-center gap-[var(--gap)] group leading-[100%] text-orange1"
+                      style="--vertical-padding:max(1rem,1.15vmax);--horizontal-padding:max(.95rem,1.3vmax);--bullet-size:max(1rem,1.2vmax);--gap:max(.5rem,.7vmax);--font-size:max(.9rem,1.2vmax);padding:var(--vertical-padding) var(--horizontal-padding);box-shadow:0px 0px 0px 2px rgb(var(--color-orange-1)) inset;;font-size:var(--font-size)">
+                      <span data-animated-button-bullet class="rounded-full absolute overflow-hidden bg-orange1">
+                        <span data-animated-button-arrow class="block absolute top-[50%] translate-y-[-50%]"
+                          style="width:var(--bullet-size);height:var(--bullet-size)"> <svg viewBox="0 0 173 173"
+                            xmlns="http://www.w3.org/2000/svg" class="scale-[2.5]">
+                            <path
+                              d="M76.8823 45L69.8116 51.9832L97.7936 79.6682H55V89.5734H97.7936L69.8116 117.258L76.8823 124.242L117 84.6209L76.8823 45Z"
+                              fill="rgb(var(--color-light-1))"></path>
+                          </svg> </span> <span data-animated-button-bullet-text
+                          class="block absolute top-[50%] translate-y-[-50%] text-light1">Send message</span> </span>
+                      <span class="inline-block relative"
+                        style="width:var(--bullet-size);height:var(--bullet-size)"></span> Send message </button>
+                    <p class="text-[max(.9rem,1.1vmax)] leading-[100%] text-orange1 flex items-center gap-[max(.3rem,.4vmax)]"
+                      style="opacity:0;pointer-events:none" data-fail-message> <span
+                        class="shrink-0 text-orange1 rounded-full h-[max(1rem,1.2vmax)] w-[max(1rem,1.2vmax)] pointer-events-none inline-flex justify-center items-center border border-orange1 font-medium text-[max(.7rem,.9vmax)] leading-[100%]">
+                        <span class="pointer-events-none"> ! </span> </span>
+                      Something wrong happened
+                    </p>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="fixed top-0 left-0 w-full h-[100dvh] overflow-y-scroll invisible-scrollbar z-[100]"
+    id="work-transition-layer" style="opacity:0;pointer-events:none"></div>
+  <div class="fixed top-0 left-0 w-full h-[100dvh] overflow-y-scroll invisible-scrollbar z-[1001]"
+    id="transition-container" style="opacity:0;pointer-events:none">
+    <div class="w-full h-full overflow-hidden">
+      <div id="transition-overlay" class="w-full h-full bg-dark1/50 absolute top-0 left-0 z-0" style="opacity:0">
+      </div>
+      <div id="transition-element" class="relative z-10">
+        <div data-transition-block class="absolute top-0 left-0 w-full h-[100dvh] bg-light1 rounded-[3vmax]"></div>
+        <div data-transition-block class="absolute top-0 left-0 w-full h-[100dvh] bg-dark1 rounded-[3vmax]"></div>
+        <div data-transition-block class="absolute top-0 left-0 w-full h-[100dvh] bg-orange1 rounded-[3vmax]"></div>
+
+      </div>
+    </div>
+  </div>
+  <div class="fixed w-full top-0 left-0 h-[100dvh] overflow-y-scroll z-[1000]" id="preloader">
+    <div class="w-full h-full overflow-hidden relative">
+      
+      <div data-preloader-orange-container class="absolute w-full h-full top-0 left-0 bg-orange1 z-0 overflow-hidden"
+        style="will-change:border-radius">
+        <div data-preloader-dark-container
+          class="bg-dark1 px-[6vw] pt-[6vw] h-full w-full origin-bottom overflow-hidden">
+          <div data-preloader-video-container style="will-change:border-radius"
+            class="w-full h-full origin-bottom overflow-hidden relative">
+            <div data-preloader-video-wrapper class="w-full h-full"></div>
+            <div data-preloader-video-mask class="absolute bg-dark1 w-full inset-0"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>(function () {
+      const covers = { "https://media/shazmin/Z_v75-vxEdbNO-pV_center-cover.png?auto=format,compress": null, "https://media/shazmin/aD4VB7h8WN-LVf66_mirakl-case-1.png?auto=format,compress": null, "https://media/shazmin/aDYVFydWJ-7kSmVw_everstream-1.png?auto=format,compress": null, "https://media/shazmin/aDCPFidWJ-7kSgF2_flashpoint-case-1.png?auto=format,compress": null, "https://media/shazmin/aCz0gSdWJ-7kSXl2_intrepid-1-case.png?auto=format,compress": null };
+
+      window.COVERS = covers
+    })();</script>
+  <script type="module" src="../_astro/Layout.astro_astro_type_script_index_0_lang.CR16fbAe.js"></script>
+</body>
+
+</html>

@@ -218,9 +218,9 @@
                     <h1 class="text-[rgb(var(--color-light-1))]"
                       style="font-size:max(1.6rem, 1.6vmax);line-height:15%;font-weight:500;">Shazmin N.</h1>
                   </a>
-                  <a href="mailto:shazminnasir481@gmail.com" target="_blank" rel="noopener noreferrer"
+                  <a href="https://github.com/shazminnasir67/Driver-Distraction-Detection-APP" target="_blank" rel="noopener noreferrer"
                     data-text-hover-animation style="--data-color:rgb(var(--color-orange-1))"
-                    class="hidden lg:block text-[max(.8rem,1vmax)] font-medium">Email me</a>
+                    class="hidden lg:block text-[max(.8rem,1vmax)] font-medium">Find GitHub repo</a>
                 </div>
               </header>
             </div>
@@ -402,12 +402,12 @@
                       </p>
 
                       <ul class="pl-[2vmax] ml-[1vmax]" style="font-size: max(1.3rem, 1.2vmax); list-style-type: disc; list-style-position: outside; color: rgb(var(--color-light-1));">
-                        <li style="display: list-item;">Face verification and validation before monitoring begins</li>
-                        <li style="display: list-item;">Frame-skipping and optimization logic for real-time performance</li>
-                        <li style="display: list-item;">FastAPI-based backend for scalable AI inference</li>
-                        <li style="display: list-item;">MongoDB Atlas for secure and scalable data storage</li>
-                        <li style="display: list-item;">Web dashboard for analytics, visualization, and monitoring</li>
-                        <li style="display: list-item;">Android mobile application (Kotlin) for live detection and alerts</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Face verification and validation before monitoring begins</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Frame-skipping and optimization logic for real-time performance</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">FastAPI-based backend for scalable AI inference</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">MongoDB Atlas for secure and scalable data storage</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Web dashboard for analytics, visualization, and monitoring</li>
+                        <li style="display: list-item; padding-left: 0.5vmax;">Android mobile application (Kotlin) for live detection and alerts</li>
                       </ul>
                       <p>
                         Rather than relying on rigid threshold-based logic, the platform adopts
